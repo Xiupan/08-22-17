@@ -1,5 +1,3 @@
-// Write a function that finds the average of the numbers in a given array.
-
 function findAverage (inputArr){
   var sum = 0;
   for (let i = 0; i < inputArr.length; ++i){
